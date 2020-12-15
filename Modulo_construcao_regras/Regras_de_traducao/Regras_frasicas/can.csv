@@ -1,0 +1,53 @@
+VO	V O
+V	O V
+SVO	S V O
+SV	S V_cop
+VS	O
+VO	O V_cop O
+SVO	S V_cop
+SVO	S V_cop
+SV	S V_cop
+V	S O S V O
+VO	V O
+SV	V S V
+VO	S V_cop
+SVO	O S V O
+SV	V
+SV	S V_cop S V
+V	S O V
+V	O  V
+VO	S V O
+SV	S V_cop
+V	V S V_cop
+VO	O  V O
+SV	S
+SVO	S V O
+V	S
+S	S O
+SV	S V O S O V
+V	V_cop
+SV	S V_cop
+V	S O V
+SV	S V
+SV	S V_cop
+SVO	S V_cop
+V	V_cop
+SVO	S V O
+SV	S V O
+VO	S V O S V_cop O
+SVO	S V_cop O
+SVO	S V O  V
+SV	S
+V	O V_cop
+V	O  V O
+SVO	S V O  V O
+VO	O  V  V O
+SV	S  V O
+SV	V_cop
+V	V_cop S V O
+VS	S  V S V  V  V  V
+V	S V_cop O
+V	V O V_cop O
+SV	S V_cop S V_cop
+SV	V  V  V  V  V  V  V
+SV	S V_cop

@@ -1,0 +1,58 @@
+Bom dia.	BOM-DIA	Legenda:
+A menina de óculos vê a flor.	MULHER MENINO ÓCULOS FLOR VER	{} - onde comeca e acaba a expressao facial
+O aluno gosta de animais.	ALUNO ANIMAL GOSTAR	() - expressao facial em si
+O segurança também quer respeito.	SEGURANÇA RESPEITO QUERER TAMBÉM	(NÃO) – negaçao incorporada com a bochecha e cabeça.
+O jovem quer comida.	JOVEM COMIDA QUERER	(q) – Expressao facial das interrogativas: levantar o queixo, inclinar a cabeça para tras e franzir as sobrancelhas.
+Eles gostam de massa.	ELES MASSA GOSTAR	
+O neto come a formiga.	NETO FORMIGA COMER	
+O diretor pede dinheiro.	DIRETOR DINHEIRO PEDIR	
+A criança é inteligente.	CRIANÇA INTELIGENTE	
+O estado tem o poder	ESTADO PODER	
+O pai zangou-se com o filho.	PAI FILHO ZANGAR	
+Ele é espanhol.	ESPANHA PAÍS DELE	
+O papa é bom ouvinte	PAPA OUVINTE BOM	
+O meu namorado tem olhos verdes.	NAMORADO MEU OLHOS VERDE	
+O médico ouve uma história.	MÉDICO HISTÓRIA OUVIR	
+Eu vejo o meu filho.	EU FILHO MEU VER	
+Ela tem uma casa azul.	MULHER CASA AZUL DELE	
+A mulher cega é simpática.	MULHER CEGA SIMPÁTICA	
+Eu pergunto-te.	EU TU PERGUNTAR	
+Ali está pouco sol.	ALI SOL POUCO	
+A menina de óculos não vê a flor.	MULHER MENINO ÓCULOS FLOR {VER}(NÃO)	
+O aluno não gosta de animais.	ALUNO ANIMAL {GOSTAR}(NÃO); ALUNO ANIMAL GOSTAR {NÃO}(headshake); ALUNO ANIMAL GOSTAR {PERDER}(headshake)	
+O segurança não quer respeito.	SEGURANÇA RESPEITO {NÃO-QUERER}(NÃO)	
+O jovem não quer comida.	JOVEM COMIDA {NÃO-QUERER}(NÃO)	
+Eles não gostam de massa.	ELES MASSA GOSTAR {PERDER}(headshake); ELES MASSA {GOSTAR}(NÃO)	
+O neto não come a formiga.	NETO FORMIGA {COMER}(NÃO); NETO FORMIGA COMER {PERDER}(headshake); NETO FORMIGA COMER {THU}(headshake)	
+O diretor não pede dinheiro.	DIRETOR DINHEIRO PEDIR(NÃO); DIRETOR DINHEIRO PEDIR {THU}(headshake)	
+A criança não é inteligente.	CRIANÇA INTELIGENTE(NÃO); CRIANÇA INTELIGENTE {NÃO}(headshake); CRIANÇA INTELIGENTE {THU}(headshake)	
+O estado não tem o poder	ESTADO PODER {THU}(headshake); ESTADO PODER NÃO-HÁ	
+O pai não se zangou com o filho.	PAI FILHO ZANGAR(NÃO); PAI FILHO ZANGAR {THU}(headshake)	
+Ele não é espanhol.	ESPANHA PAÍS DELE {THU}(headshake); ESPANHA PAÍS DELE(NÃO)	
+O papa não é bom ouvinte	PAPA OUVINTE BOM {THU}(headshake); PAPA OUVINTE BOM {NÃO}(headshake)	
+O meu namorado não tem olhos verdes.	NAMORADO MEU OLHOS VERDES {THU}(headshake); NAMORADO MEU OLHOS VERDES {NÃO}(headshake)	
+O médico não ouve uma história.	MÉDICO HISTÓRIA OUVIR(NÃO); MÉDICO HISTÓRIA OUVIR {THU}(headshake)	
+Eu não vejo o meu filho.	EU FILHO MEU VER(NÃO); EU FILHO MEU VER {THU}(headshake)	
+Ela não tem uma casa azul.	MULHER CASA AZUL DELE {THU}(headshake); MULHER CASA AZUL DELE {NÃO}(headshake)	
+A mulher cega não é simpática.	MULHER CEGA SIMPÁTICA(NÃO); MULHER CEGA SIMPÁTICA {THU}(headshake)	
+Eu não te pergunto.	EU TU PERGUNTAR (NÃO)	
+Ali não está pouco sol.	ALI SOL POUCO {THU}(headshake); ALI SOL POUCO(NÃO); ALI SOL POUCO {NÃO}(headshake) 	
+A menina de óculos vê a flor?	{MULHER MENINO ÓCULOS FLOR VER}(q)	
+O aluno gosta de animais?	{ALUNO ANIMAL GOSTAR}(q)	
+O segurança quer respeito?	{SEGURANÇA RESPEITO QUERER}(q)	
+O jovem quer comida?	{JOVEM COMIDA QUERER}(q)	
+Eles gostam de massa?	{ELES MASSA GOSTAR}(q)	
+O neto come a formiga?	{NETO FORMIGA COMER}(q)	
+O diretor pede dinheiro?	{DIRETOR DINHEIRO PEDIR}(q)	
+A criança é inteligente?	{CRIANÇA INTELIGENTE}(q)	
+O estado tem o poder?	{ESTADO PODER HÁ}(q)	
+O pai zangou-se com o filho?	{PAI FILHO ZANGAR}(q)	
+Ele é espanhol?	{ESPANHA PAÍS DELE}(q); {PAIS DELE QUAL}(q)	
+O papa é bom ouvinte?	{PAPA OUVINTE BOM}(q)	
+O meu namorado tem olhos verdes?	{NAMORADO MEU OLHOS VERDES}(q)	
+O médico ouve uma história?	{MÉDICO HISTÓRIA OUVIR}(q)	
+Eu vejo o meu filho?	{EU FILHO MEU VER}(q)	
+Ela tem uma casa azul?	{MULHER CASA AZUL DELE}(q)	
+A mulher cega é simpática?	{MULHER CEGA SIMPÁTICA}(q)	
+Eu pergunto-te?	{EU TU PERGUNTAR}(q)	
+Ali está pouco sol?	{ALI SOL POUCO}(q)	
